@@ -11,6 +11,9 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.5.0",
-    "allure-playwright": "^3.6.0"
+    "allure-playwright": "^3.6.0",
+    "path": "^0.12.7",
+    "playwright": "^1.58.2",
+    "prompt-sync": "^4.2.0"
   }
 }

@@ -1,0 +1,455 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e16]:
+  - banner [ref=e17]:
+    - generic [ref=e23]:
+      - heading "Automation Testing Practice" [level=1] [ref=e25]:
+        - link "Automation Testing Practice" [ref=e26] [cursor=pointer]:
+          - /url: https://testautomationpractice.blogspot.com/
+      - paragraph [ref=e28]: For Selenium, Cypress & Playwright
+  - list [ref=e35]:
+    - listitem [ref=e36]:
+      - link "Home" [ref=e37] [cursor=pointer]:
+        - /url: http://testautomationpractice.blogspot.com/
+    - listitem [ref=e38]:
+      - link "Udemy Courses" [ref=e39] [cursor=pointer]:
+        - /url: https://www.pavanonlinetrainings.com/p/udemy-courses.html
+    - listitem [ref=e40]:
+      - link "Online Trainings" [ref=e41] [cursor=pointer]:
+        - /url: https://www.pavanonlinetrainings.com/
+    - listitem [ref=e42]:
+      - link "Blog" [ref=e43] [cursor=pointer]:
+        - /url: https://www.pavantestingtools.com/
+    - listitem [ref=e44]:
+      - link "PlaywrightPractice" [ref=e45] [cursor=pointer]:
+        - /url: https://testautomationpractice.blogspot.com/p/playwrightpractice.html
+  - generic [ref=e49]:
+    - generic:
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - generic [ref=e65]:
+            - heading "Download Files" [level=3] [ref=e66]
+            - generic [ref=e67]:
+              - heading "Download a Text or PDF File" [level=2] [ref=e68]
+              - text: "Enter Text:"
+              - textbox "Enter Text:" [active] [ref=e69]: sheenam
+              - button "Generate and Download Text File" [ref=e70] [cursor=pointer]
+              - button "Generate and Download PDF File" [ref=e71] [cursor=pointer]
+              - heading "PDF File with the Browser" [level=2] [ref=e72]
+              - button "Download PDF File" [ref=e73] [cursor=pointer]
+          - link "Home" [ref=e77] [cursor=pointer]:
+            - /url: https://testautomationpractice.blogspot.com/
+          - generic [ref=e79]:
+            - text: "Subscribe to:"
+            - link "Comments (Atom)" [ref=e80] [cursor=pointer]:
+              - /url: https://testautomationpractice.blogspot.com/feeds/posts/default
+        - generic [ref=e81]:
+          - heading "Upload Files" [level=2] [ref=e82]
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - button "Choose File" [ref=e85]
+              - button "Upload Single File" [ref=e86] [cursor=pointer]
+            - paragraph
+            - generic [ref=e87]:
+              - button "Choose File" [ref=e88]
+              - button "Upload Multiple Files" [ref=e89] [cursor=pointer]
+            - paragraph
+        - generic [ref=e90]:
+          - heading "Static Web Table" [level=2] [ref=e91]
+          - table [ref=e93]:
+            - rowgroup [ref=e94]:
+              - row "BookName Author Subject Price" [ref=e95]:
+                - columnheader "BookName" [ref=e96]
+                - columnheader "Author" [ref=e97]
+                - columnheader "Subject" [ref=e98]
+                - columnheader "Price" [ref=e99]
+              - row "Learn Selenium Amit Selenium 300" [ref=e100]:
+                - cell "Learn Selenium" [ref=e101]
+                - cell "Amit" [ref=e102]
+                - cell "Selenium" [ref=e103]
+                - cell "300" [ref=e104]
+              - row "Learn Java Mukesh Java 500" [ref=e105]:
+                - cell "Learn Java" [ref=e106]
+                - cell "Mukesh" [ref=e107]
+                - cell "Java" [ref=e108]
+                - cell "500" [ref=e109]
+              - row "Learn JS Animesh Javascript 300" [ref=e110]:
+                - cell "Learn JS" [ref=e111]
+                - cell "Animesh" [ref=e112]
+                - cell "Javascript" [ref=e113]
+                - cell "300" [ref=e114]
+              - row "Master In Selenium Mukesh Selenium 3000" [ref=e115]:
+                - cell "Master In Selenium" [ref=e116]
+                - cell "Mukesh" [ref=e117]
+                - cell "Selenium" [ref=e118]
+                - cell "3000" [ref=e119]
+              - row "Master In Java Amod JAVA 2000" [ref=e120]:
+                - cell "Master In Java" [ref=e121]
+                - cell "Amod" [ref=e122]
+                - cell "JAVA" [ref=e123]
+                - cell "2000" [ref=e124]
+              - row "Master In JS Amit Javascript 1000" [ref=e125]:
+                - cell "Master In JS" [ref=e126]
+                - cell "Amit" [ref=e127]
+                - cell "Javascript" [ref=e128]
+                - cell "1000" [ref=e129]
+        - generic [ref=e130]:
+          - heading "Dynamic Web Table" [level=2] [ref=e131]
+          - generic [ref=e132]:
+            - table [ref=e133]:
+              - rowgroup [ref=e134]:
+                - row "Name Disk (MB/s) Memory (MB) CPU (%) Network (Mbps)" [ref=e135]:
+                  - columnheader "Name" [ref=e136]
+                  - columnheader "Disk (MB/s)" [ref=e137]
+                  - columnheader "Memory (MB)" [ref=e138]
+                  - columnheader "CPU (%)" [ref=e139]
+                  - columnheader "Network (Mbps)" [ref=e140]
+              - rowgroup [ref=e141]:
+                - row "Internet Explorer 0.39 MB/s 71.9 MB 8.4% 6.6 Mbps" [ref=e142]:
+                  - cell "Internet Explorer" [ref=e143]
+                  - cell "0.39 MB/s" [ref=e144]
+                  - cell "71.9 MB" [ref=e145]
+                  - cell "8.4%" [ref=e146]
+                  - cell "6.6 Mbps" [ref=e147]
+                - row "Chrome 0.58 MB/s 47.6 MB 5.7% 2.3 Mbps" [ref=e148]:
+                  - cell "Chrome" [ref=e149]
+                  - cell "0.58 MB/s" [ref=e150]
+                  - cell "47.6 MB" [ref=e151]
+                  - cell "5.7%" [ref=e152]
+                  - cell "2.3 Mbps" [ref=e153]
+                - row "System 0.19 MB/s 35.1 MB 8.0% 1.3 Mbps" [ref=e154]:
+                  - cell "System" [ref=e155]
+                  - cell "0.19 MB/s" [ref=e156]
+                  - cell "35.1 MB" [ref=e157]
+                  - cell "8.0%" [ref=e158]
+                  - cell "1.3 Mbps" [ref=e159]
+                - row "Firefox 0.62 MB/s 79.4 MB 0.6% 0.0 Mbps" [ref=e160]:
+                  - cell "Firefox" [ref=e161]
+                  - cell "0.62 MB/s" [ref=e162]
+                  - cell "79.4 MB" [ref=e163]
+                  - cell "0.6%" [ref=e164]
+                  - cell "0.0 Mbps" [ref=e165]
+            - generic [ref=e166]:
+              - paragraph [ref=e167]:
+                - text: "CPU load of Chrome process:"
+                - strong [ref=e168]: 5.7%
+              - paragraph [ref=e169]:
+                - text: "Memory Size of Firefox process:"
+                - strong [ref=e170]: 79.4 MB
+              - paragraph [ref=e171]:
+                - text: "Network speed of Chrome process:"
+                - strong [ref=e172]: 2.3 Mbps
+              - paragraph [ref=e173]:
+                - text: "Disk space of Firefox process:"
+                - strong [ref=e174]: 0.62 MB/s
+        - generic [ref=e175]:
+          - heading "Pagination Web Table" [level=2] [ref=e176]
+          - generic [ref=e178]:
+            - table [ref=e179]:
+              - rowgroup [ref=e180]:
+                - row "ID Name Price Select" [ref=e181]:
+                  - columnheader "ID" [ref=e182]
+                  - columnheader "Name" [ref=e183]
+                  - columnheader "Price" [ref=e184]
+                  - columnheader "Select" [ref=e185]
+              - rowgroup [ref=e186]:
+                - row "1 Smartphone $10.99" [ref=e187]:
+                  - cell "1" [ref=e188]
+                  - cell "Smartphone" [ref=e189]
+                  - cell "$10.99" [ref=e190]
+                  - cell [ref=e191]:
+                    - checkbox [ref=e192]
+                - row "2 Laptop $19.99" [ref=e193]:
+                  - cell "2" [ref=e194]
+                  - cell "Laptop" [ref=e195]
+                  - cell "$19.99" [ref=e196]
+                  - cell [ref=e197]:
+                    - checkbox [ref=e198]
+                - row "3 Tablet $5.99" [ref=e199]:
+                  - cell "3" [ref=e200]
+                  - cell "Tablet" [ref=e201]
+                  - cell "$5.99" [ref=e202]
+                  - cell [ref=e203]:
+                    - checkbox [ref=e204]
+                - row "4 Smartwatch $7.99" [ref=e205]:
+                  - cell "4" [ref=e206]
+                  - cell "Smartwatch" [ref=e207]
+                  - cell "$7.99" [ref=e208]
+                  - cell [ref=e209]:
+                    - checkbox [ref=e210]
+                - row "5 Wireless Earbuds $8.99" [ref=e211]:
+                  - cell "5" [ref=e212]
+                  - cell "Wireless Earbuds" [ref=e213]
+                  - cell "$8.99" [ref=e214]
+                  - cell [ref=e215]:
+                    - checkbox [ref=e216]
+            - list [ref=e217]:
+              - listitem [ref=e218]:
+                - link "1" [ref=e219] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e220]:
+                - link "2" [ref=e221] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e222]:
+                - link "3" [ref=e223] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e224]:
+                - link "4" [ref=e225] [cursor=pointer]:
+                  - /url: "#"
+      - generic:
+        - generic:
+          - complementary
+      - complementary [ref=e228]:
+        - generic [ref=e229]:
+          - generic [ref=e230]:
+            - heading "Tabs" [level=2] [ref=e231]
+            - generic [ref=e234]:
+              - link [ref=e236] [cursor=pointer]:
+                - /url: https://wikipedia.org/wiki/
+                - img [ref=e237]
+              - generic [ref=e238]:
+                - textbox [ref=e240]
+                - button "Submit" [ref=e242]
+          - generic [ref=e244]:
+            - heading "Dynamic Button" [level=2] [ref=e245]
+            - button "START" [ref=e247] [cursor=pointer]
+          - generic [ref=e248]:
+            - heading "Alerts & Popups" [level=2] [ref=e249]
+            - generic [ref=e250]:
+              - button "Simple Alert" [ref=e251] [cursor=pointer]
+              - button "Confirmation Alert" [ref=e252] [cursor=pointer]
+              - button "Prompt Alert" [ref=e253] [cursor=pointer]
+              - paragraph
+          - button "New Tab" [ref=e256] [cursor=pointer]
+          - button "Popup Windows" [ref=e261] [cursor=pointer]
+          - generic [ref=e262]:
+            - heading "Mouse Hover" [level=2] [ref=e263]
+            - generic [ref=e264]:
+              - paragraph [ref=e265]: Move the mouse over the button to open the dropdown menu.
+              - button "Point Me" [ref=e267] [cursor=pointer]
+          - generic [ref=e268]:
+            - heading "Double Click" [level=2] [ref=e269]
+            - generic [ref=e270]:
+              - text: "Field1:"
+              - textbox [ref=e271]: Hello World!
+              - text: "Field2:"
+              - textbox [ref=e272]
+              - button "Copy Text" [ref=e273] [cursor=pointer]
+              - paragraph [ref=e274]: Double click on button, the text from Field1 will be copied into Field2.
+          - generic [ref=e275]:
+            - heading "Drag and Drop" [level=2] [ref=e276]
+            - generic:
+              - paragraph [ref=e278]: Drag me to my target
+              - paragraph [ref=e280]: Drop here
+          - generic [ref=e281]:
+            - heading "Slider" [level=2] [ref=e282]
+            - paragraph [ref=e284]:
+              - text: "Price range:"
+              - textbox "Price range:" [ref=e285]: $75 - $300
+          - generic [ref=e290]:
+            - heading "SVG Elements" [level=2] [ref=e291]
+            - generic [ref=e293]:
+              - img [ref=e294]
+              - img [ref=e296]
+              - img [ref=e298]
+          - generic [ref=e300]:
+            - heading "Scrolling DropDown" [level=2] [ref=e301]
+            - textbox "Select an item" [ref=e303]
+          - generic [ref=e304]:
+            - heading "Labels And Links" [level=2] [ref=e305]
+            - generic [ref=e307]:
+              - generic [ref=e308]:
+                - heading "Mobile Labels" [level=4] [ref=e309]
+                - generic [ref=e310]: Samsung
+                - generic [ref=e311]: Real Me
+                - generic [ref=e312]: Moto
+              - generic [ref=e313]:
+                - heading "Laptop Links" [level=4] [ref=e314]
+                - link "Apple" [ref=e315] [cursor=pointer]:
+                  - /url: https://www.apple.com/
+                - link "Lenovo" [ref=e316] [cursor=pointer]:
+                  - /url: https://www.lenovo.com/
+                - link "Dell" [ref=e317] [cursor=pointer]:
+                  - /url: https://www.dell.com/
+              - generic [ref=e318]:
+                - heading "Broken Links" [level=4] [ref=e319]
+                - link "Errorcode 400" [ref=e320] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=400
+                - link "Errorcode 401" [ref=e321] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=401
+                - link "Errorcode 403" [ref=e322] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=403
+                - link "Errorcode 404" [ref=e323] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=404
+                - link "Errorcode 408" [ref=e324] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=408
+                - link "Errorcode 500" [ref=e325] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=500
+                - link "Errorcode 502" [ref=e326] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=502
+                - link "Errorcode 503" [ref=e327] [cursor=pointer]:
+                  - /url: http://www.deadlinkcity.com/error-page.asp?e=503
+          - generic [ref=e328]:
+            - heading "Visitors" [level=2] [ref=e329]
+            - generic [ref=e331]:
+              - generic "A chart." [ref=e335]:
+                - img "A chart." [ref=e336]
+                - generic "A tabular representation of the data in the chart." [ref=e349]:
+                  - table [ref=e350]:
+                    - rowgroup [ref=e351]:
+                      - row [ref=e352]:
+                        - columnheader [ref=e353]
+                        - columnheader [ref=e354]
+                    - rowgroup [ref=e355]:
+                      - row "0 43" [ref=e356]:
+                        - cell "0" [ref=e357]
+                        - cell "43" [ref=e358]
+                      - row "1 39" [ref=e359]:
+                        - cell "1" [ref=e360]
+                        - cell "39" [ref=e361]
+                      - row "2 64" [ref=e362]:
+                        - cell "2" [ref=e363]
+                        - cell "64" [ref=e364]
+                      - row "3 74" [ref=e365]:
+                        - cell "3" [ref=e366]
+                        - cell "74" [ref=e367]
+                      - row "4 74" [ref=e368]:
+                        - cell "4" [ref=e369]
+                        - cell "74" [ref=e370]
+                      - row "5 87" [ref=e371]:
+                        - cell "5" [ref=e372]
+                        - cell "87" [ref=e373]
+                      - row "6 100" [ref=e374]:
+                        - cell "6" [ref=e375]
+                        - cell "100" [ref=e376]
+                      - row "7 55" [ref=e377]:
+                        - cell "7" [ref=e378]
+                        - cell "55" [ref=e379]
+                      - row "8 42" [ref=e380]:
+                        - cell "8" [ref=e381]
+                        - cell "42" [ref=e382]
+                      - row "9 77" [ref=e383]:
+                        - cell "9" [ref=e384]
+                        - cell "77" [ref=e385]
+                      - row "10 82" [ref=e386]:
+                        - cell "10" [ref=e387]
+                        - cell "82" [ref=e388]
+                      - row "11 94" [ref=e389]:
+                        - cell "11" [ref=e390]
+                        - cell "94" [ref=e391]
+                      - row "12 85" [ref=e392]:
+                        - cell "12" [ref=e393]
+                        - cell "85" [ref=e394]
+                      - row "13 64" [ref=e395]:
+                        - cell "13" [ref=e396]
+                        - cell "64" [ref=e397]
+                      - row "14 49" [ref=e398]:
+                        - cell "14" [ref=e399]
+                        - cell "49" [ref=e400]
+                      - row "15 56" [ref=e401]:
+                        - cell "15" [ref=e402]
+                        - cell "56" [ref=e403]
+                      - row "16 96" [ref=e404]:
+                        - cell "16" [ref=e405]
+                        - cell "96" [ref=e406]
+                      - row "17 71" [ref=e407]:
+                        - cell "17" [ref=e408]
+                        - cell "71" [ref=e409]
+                      - row "18 85" [ref=e410]:
+                        - cell "18" [ref=e411]
+                        - cell "85" [ref=e412]
+                      - row "19 80" [ref=e413]:
+                        - cell "19" [ref=e414]
+                        - cell "80" [ref=e415]
+                      - row "20 60" [ref=e416]:
+                        - cell "20" [ref=e417]
+                        - cell "60" [ref=e418]
+                      - row "21 45" [ref=e419]:
+                        - cell "21" [ref=e420]
+                        - cell "45" [ref=e421]
+                      - row "22 40" [ref=e422]:
+                        - cell "22" [ref=e423]
+                        - cell "40" [ref=e424]
+                      - row "23 69" [ref=e425]:
+                        - cell "23" [ref=e426]
+                        - cell "69" [ref=e427]
+                      - row "24 75" [ref=e428]:
+                        - cell "24" [ref=e429]
+                        - cell "75" [ref=e430]
+                      - row "25 84" [ref=e431]:
+                        - cell "25" [ref=e432]
+                        - cell "84" [ref=e433]
+                      - row "26 99" [ref=e434]:
+                        - cell "26" [ref=e435]
+                        - cell "99" [ref=e436]
+                      - row "27 84" [ref=e437]:
+                        - cell "27" [ref=e438]
+                        - cell "84" [ref=e439]
+                      - row "28 47" [ref=e440]:
+                        - cell "28" [ref=e441]
+                        - cell "47" [ref=e442]
+                      - row "29 37" [ref=e443]:
+                        - cell "29" [ref=e444]
+                        - cell "37" [ref=e445]
+              - generic [ref=e446]: 6,691,123
+  - contentinfo [ref=e447]:
+    - generic [ref=e450]:
+      - table [ref=e451]:
+        - rowgroup [ref=e452]:
+          - row "Form Section 1 This is a paragraph in Section 1. Submit Section 2 This is a paragraph in Section 2. Submit Section 3 This is a paragraph in Section 3. Submit Footer Links Home Hidden Elements & AJAX Download Files ShadowDOM Mobiles Laptops Blog Choose File Youtube" [ref=e453]:
+            - cell "Form Section 1 This is a paragraph in Section 1. Submit Section 2 This is a paragraph in Section 2. Submit Section 3 This is a paragraph in Section 3. Submit Footer Links Home Hidden Elements & AJAX Download Files" [ref=e454]:
+              - generic [ref=e455]:
+                - generic [ref=e456]:
+                  - heading "Form" [level=2] [ref=e457]
+                  - generic [ref=e459]:
+                    - generic [ref=e460]:
+                      - heading "Section 1" [level=4] [ref=e461]
+                      - paragraph [ref=e462]: This is a paragraph in Section 1.
+                      - textbox [ref=e463]
+                      - button "Submit" [ref=e464] [cursor=pointer]
+                    - generic [ref=e465]:
+                      - heading "Section 2" [level=4] [ref=e466]
+                      - paragraph [ref=e467]: This is a paragraph in Section 2.
+                      - textbox [ref=e468]
+                      - button "Submit" [ref=e469] [cursor=pointer]
+                    - generic [ref=e470]:
+                      - heading "Section 3" [level=4] [ref=e471]
+                      - paragraph [ref=e472]: This is a paragraph in Section 3.
+                      - textbox [ref=e473]
+                      - button "Submit" [ref=e474] [cursor=pointer]
+                - generic [ref=e475]:
+                  - heading "Footer Links" [level=2] [ref=e476]
+                  - list [ref=e478]:
+                    - listitem [ref=e479]:
+                      - link "Home" [ref=e480] [cursor=pointer]:
+                        - /url: http://testautomationpractice.blogspot.com/
+                    - listitem [ref=e481]:
+                      - link "Hidden Elements & AJAX" [ref=e482] [cursor=pointer]:
+                        - /url: https://testautomationpractice.blogspot.com/p/gui-elements-ajax-hidden.html
+                    - listitem [ref=e483]:
+                      - link "Download Files" [ref=e484] [cursor=pointer]:
+                        - /url: https://testautomationpractice.blogspot.com/p/download-files_25.html
+            - cell "ShadowDOM Mobiles Laptops Blog Choose File Youtube" [ref=e485]:
+              - generic [ref=e487]:
+                - heading "ShadowDOM" [level=2] [ref=e488]
+                - generic [ref=e489]:
+                  - generic [ref=e490]:
+                    - generic [ref=e491]: Mobiles
+                    - generic [ref=e494]: Laptops
+                    - link "Blog" [ref=e495] [cursor=pointer]:
+                      - /url: https://www.pavantestingtools.com/
+                    - textbox [ref=e496]
+                    - checkbox [ref=e497]
+                    - button "Choose File" [ref=e498]
+                  - link "Youtube" [ref=e499] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@sdetpavan/videos
+      - generic [ref=e502]:
+        - text: Theme images by
+        - link "merrymoonmary" [ref=e503] [cursor=pointer]:
+          - /url: http://www.istockphoto.com/portfolio/merrymoonmary?platform=blogger
+        - text: . Powered by
+        - link "Blogger" [ref=e504] [cursor=pointer]:
+          - /url: https://www.blogger.com
+        - text: .
+```

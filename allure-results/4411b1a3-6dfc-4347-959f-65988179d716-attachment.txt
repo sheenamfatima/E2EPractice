@@ -1,0 +1,2 @@
+D:\Playwright\E2ETestPractice\tests
+D:\Playwright\E2ETestPractice\TestData\geto.jpg
